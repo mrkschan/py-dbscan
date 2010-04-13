@@ -45,6 +45,6 @@ for k in xrange(2, 10):
 
         print 'k:', k, 'sd:', sd_away, 'kdist:', kdist, 'no. of cluster:', len(cluster)
         for i in xrange(0, len(cluster)):
-            print 'cluster:', i, 'no. of core pt.:', cp[i], 'impurity (classification error):', errs[i]
-        print 'mean impurity:', float(sum(errs)) / len(errs), 'sum of core pt.:', sum(cp)
+            print 'cluster:', i, 'no. of pt. in cluster:', cp[i], 'impurity (classification error):', errs[i]
+        print 'mean impurity:', float(sum(errs)) / len(errs), 'sum of pt.:', sum(cp)
         print

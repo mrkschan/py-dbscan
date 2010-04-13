@@ -1,118 +1,118 @@
 mean: 0.0717722805828 sd: 0.190131849894 sd + mean: 0.0717722805828 kdist: 0.0734013945379
 k: 2 sd: 0 kdist: 0.0734013945379 no. of cluster: 15
-cluster: 0 no. of core pt.: 58 impurity (classification error): 0.534482758621
-cluster: 1 no. of core pt.: 4 impurity (classification error): 0.25
-cluster: 2 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 3 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 4 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 5 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 6 no. of core pt.: 2 impurity (classification error): 0.5
-cluster: 7 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 8 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 9 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 10 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 11 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 12 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 13 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 14 no. of core pt.: 4 impurity (classification error): 0.0
-mean impurity: 0.174521072797 sum of core pt.: 95
+cluster: 0 no. of pt. in cluster: 58 impurity (classification error): 0.534482758621
+cluster: 1 no. of pt. in cluster: 4 impurity (classification error): 0.25
+cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 4 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.5
+cluster: 7 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 10 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 12 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 14 no. of pt. in cluster: 4 impurity (classification error): 0.0
+mean impurity: 0.174521072797 sum of pt.: 95
 
 mean: 0.0717722805828 sd: 0.190131849894 sd + mean: 0.261904130477 kdist: 0.264488423006
 k: 2 sd: 1 kdist: 0.264488423006 no. of cluster: 8
-cluster: 0 no. of core pt.: 155 impurity (classification error): 0.548387096774
-cluster: 1 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 2 no. of core pt.: 2 impurity (classification error): 0.5
-cluster: 3 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 4 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 5 no. of core pt.: 7 impurity (classification error): 0.285714285714
-cluster: 6 no. of core pt.: 2 impurity (classification error): 0.0
-cluster: 7 no. of core pt.: 21 impurity (classification error): 0.0
-mean impurity: 0.166762672811 sum of core pt.: 194
+cluster: 0 no. of pt. in cluster: 155 impurity (classification error): 0.548387096774
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 2 no. of pt. in cluster: 2 impurity (classification error): 0.5
+cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 5 no. of pt. in cluster: 7 impurity (classification error): 0.285714285714
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 7 no. of pt. in cluster: 21 impurity (classification error): 0.0
+mean impurity: 0.166762672811 sum of pt.: 194
 
 mean: 0.0717722805828 sd: 0.190131849894 sd + mean: 0.452035980371 kdist: 0.511253700281
 k: 2 sd: 2 kdist: 0.511253700281 no. of cluster: 2
-cluster: 0 no. of core pt.: 206 impurity (classification error): 0.640776699029
-cluster: 1 no. of core pt.: 2 impurity (classification error): 0.0
-mean impurity: 0.320388349515 sum of core pt.: 208
+cluster: 0 no. of pt. in cluster: 206 impurity (classification error): 0.640776699029
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
+mean impurity: 0.320388349515 sum of pt.: 208
 
 mean: 0.0717722805828 sd: 0.190131849894 sd + mean: 0.642167830265 kdist: 0.862561715161
 k: 2 sd: 3 kdist: 0.862561715161 no. of cluster: 2
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-cluster: 1 no. of core pt.: 2 impurity (classification error): 0.0
-mean impurity: 0.322274881517 sum of core pt.: 213
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
+mean impurity: 0.322274881517 sum of pt.: 213
 
 mean: 0.0717722805828 sd: 0.190131849894 sd + mean: 0.83229968016 kdist: 0.862561715161
 k: 2 sd: 4 kdist: 0.862561715161 no. of cluster: 2
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-cluster: 1 no. of core pt.: 2 impurity (classification error): 0.0
-mean impurity: 0.322274881517 sum of core pt.: 213
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
+mean impurity: 0.322274881517 sum of pt.: 213
 
 mean: 0.0795514110147 sd: 0.200828739745 sd + mean: 0.0795514110147 kdist: 0.0804824453523
 k: 3 sd: 0 kdist: 0.0804824453523 no. of cluster: 10
-cluster: 0 no. of core pt.: 58 impurity (classification error): 0.534482758621
-cluster: 1 no. of core pt.: 4 impurity (classification error): 0.25
-cluster: 2 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 3 no. of core pt.: 4 impurity (classification error): 0.25
-cluster: 4 no. of core pt.: 6 impurity (classification error): 0.5
-cluster: 5 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 6 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 7 no. of core pt.: 4 impurity (classification error): 0.5
-cluster: 8 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 9 no. of core pt.: 4 impurity (classification error): 0.0
-mean impurity: 0.236781609195 sum of core pt.: 92
+cluster: 0 no. of pt. in cluster: 58 impurity (classification error): 0.534482758621
+cluster: 1 no. of pt. in cluster: 4 impurity (classification error): 0.25
+cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 3 no. of pt. in cluster: 4 impurity (classification error): 0.25
+cluster: 4 no. of pt. in cluster: 6 impurity (classification error): 0.5
+cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 6 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 7 no. of pt. in cluster: 4 impurity (classification error): 0.5
+cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 9 no. of pt. in cluster: 4 impurity (classification error): 0.0
+mean impurity: 0.236781609195 sum of pt.: 92
 
 mean: 0.0795514110147 sd: 0.200828739745 sd + mean: 0.28038015076 kdist: 0.290621051153
 k: 3 sd: 1 kdist: 0.290621051153 no. of cluster: 5
-cluster: 0 no. of core pt.: 158 impurity (classification error): 0.556962025316
-cluster: 1 no. of core pt.: 3 impurity (classification error): 0.0
-cluster: 2 no. of core pt.: 8 impurity (classification error): 0.375
-cluster: 3 no. of core pt.: 3 impurity (classification error): 0.333333333333
-cluster: 4 no. of core pt.: 21 impurity (classification error): 0.0
-mean impurity: 0.25305907173 sum of core pt.: 193
+cluster: 0 no. of pt. in cluster: 158 impurity (classification error): 0.556962025316
+cluster: 1 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 2 no. of pt. in cluster: 8 impurity (classification error): 0.375
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.333333333333
+cluster: 4 no. of pt. in cluster: 21 impurity (classification error): 0.0
+mean impurity: 0.25305907173 sum of pt.: 193
 
 mean: 0.0795514110147 sd: 0.200828739745 sd + mean: 0.481208890505 kdist: 0.489347044296
 k: 3 sd: 2 kdist: 0.489347044296 no. of cluster: 1
-cluster: 0 no. of core pt.: 206 impurity (classification error): 0.640776699029
-mean impurity: 0.640776699029 sum of core pt.: 206
+cluster: 0 no. of pt. in cluster: 206 impurity (classification error): 0.640776699029
+mean impurity: 0.640776699029 sum of pt.: 206
 
 mean: 0.0795514110147 sd: 0.200828739745 sd + mean: 0.68203763025 kdist: 0.898749700731
 k: 3 sd: 3 kdist: 0.898749700731 no. of cluster: 1
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-mean impurity: 0.644549763033 sum of core pt.: 211
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+mean impurity: 0.644549763033 sum of pt.: 211
 
 mean: 0.0795514110147 sd: 0.200828739745 sd + mean: 0.882866369995 kdist: 0.898749700731
 k: 3 sd: 4 kdist: 0.898749700731 no. of cluster: 1
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-mean impurity: 0.644549763033 sum of core pt.: 211
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+mean impurity: 0.644549763033 sum of pt.: 211
 
 mean: 0.0853631979633 sd: 0.20663837139 sd + mean: 0.0853631979633 kdist: 0.0923164015979
 k: 4 sd: 0 kdist: 0.0923164015979 no. of cluster: 5
-cluster: 0 no. of core pt.: 68 impurity (classification error): 0.558823529412
-cluster: 1 no. of core pt.: 6 impurity (classification error): 0.5
-cluster: 2 no. of core pt.: 4 impurity (classification error): 0.25
-cluster: 3 no. of core pt.: 4 impurity (classification error): 0.25
-cluster: 4 no. of core pt.: 4 impurity (classification error): 0.0
-mean impurity: 0.311764705882 sum of core pt.: 86
+cluster: 0 no. of pt. in cluster: 68 impurity (classification error): 0.558823529412
+cluster: 1 no. of pt. in cluster: 6 impurity (classification error): 0.5
+cluster: 2 no. of pt. in cluster: 4 impurity (classification error): 0.25
+cluster: 3 no. of pt. in cluster: 4 impurity (classification error): 0.25
+cluster: 4 no. of pt. in cluster: 4 impurity (classification error): 0.0
+mean impurity: 0.311764705882 sum of pt.: 86
 
 mean: 0.0853631979633 sd: 0.20663837139 sd + mean: 0.292001569353 kdist: 0.311938536127
 k: 4 sd: 1 kdist: 0.311938536127 no. of cluster: 3
-cluster: 0 no. of core pt.: 161 impurity (classification error): 0.565217391304
-cluster: 1 no. of core pt.: 10 impurity (classification error): 0.5
-cluster: 2 no. of core pt.: 21 impurity (classification error): 0.0
-mean impurity: 0.355072463768 sum of core pt.: 192
+cluster: 0 no. of pt. in cluster: 161 impurity (classification error): 0.565217391304
+cluster: 1 no. of pt. in cluster: 10 impurity (classification error): 0.5
+cluster: 2 no. of pt. in cluster: 21 impurity (classification error): 0.0
+mean impurity: 0.355072463768 sum of pt.: 192
 
 mean: 0.0853631979633 sd: 0.20663837139 sd + mean: 0.498639940743 kdist: 0.500848031632
 k: 4 sd: 2 kdist: 0.500848031632 no. of cluster: 1
-cluster: 0 no. of core pt.: 204 impurity (classification error): 0.642156862745
-mean impurity: 0.642156862745 sum of core pt.: 204
+cluster: 0 no. of pt. in cluster: 204 impurity (classification error): 0.642156862745
+mean impurity: 0.642156862745 sum of pt.: 204
 
 mean: 0.0853631979633 sd: 0.20663837139 sd + mean: 0.705278312132 kdist: 0.744123252804
 k: 4 sd: 3 kdist: 0.744123252804 no. of cluster: 1
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-mean impurity: 0.644549763033 sum of core pt.: 211
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+mean impurity: 0.644549763033 sum of pt.: 211
 
 mean: 0.0853631979633 sd: 0.20663837139 sd + mean: 0.911916683522 kdist: 0.924152271664
 k: 4 sd: 4 kdist: 0.924152271664 no. of cluster: 1
-cluster: 0 no. of core pt.: 211 impurity (classification error): 0.644549763033
-mean impurity: 0.644549763033 sum of core pt.: 211
+cluster: 0 no. of pt. in cluster: 211 impurity (classification error): 0.644549763033
+mean impurity: 0.644549763033 sum of pt.: 211
 
