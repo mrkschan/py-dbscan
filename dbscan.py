@@ -22,12 +22,13 @@ class data:
 
 def k_distance(dataset, k, sd_away, distance=proximity.euclidean):
     ''' compute the k-distance as radius for dbscan.
-        k-distance is obtained by several standard deviation away from mean (sd) '''
+        k-distance is obtained by the min. distance immediately
+        larger than a particular standard deviation away from mean '''
     kdist = []
 
     for a in dataset:
         dist = [
-            distance(a.tuple, b.tuple) \
+            distance(a.tuple, b.tuple)
             for b in dataset if a != b
         ]
         dist.sort()
@@ -42,13 +43,14 @@ def k_distance(dataset, k, sd_away, distance=proximity.euclidean):
 
     anchor = mean + (sd * sd_away)
 
-    print mean, sd, anchor,
+    print 'mean:', mean, 'sd:', sd, 'sd + mean:', anchor,
 
     last = None
     for d in reversed(kdist):
-        if d > anchor and last is None:
+        if d > anchor:
             last = d
-        elif d < anchor and last is not None:
+        if d < anchor and last is not None:
+            print 'kdist:', last
             return last
     raise Exception('sd too far away from mean')
 
@@ -57,7 +59,7 @@ def find_neighbour(instance, dataset, radius, distance):
     ''' find all neighbour within radius '''
     r = radius ** 2
     neighbour = [
-        d for d in dataset \
+        d for d in dataset
         if instance != d and r >= distance(instance.tuple, d.tuple)
     ]
 
@@ -67,6 +69,7 @@ def find_neighbour(instance, dataset, radius, distance):
 def dbscan(dataset, radius, minPt, distance=proximity.euclidean):
     ''' dataset is a list of data wrapper '''
     cluster = []
+    map(lambda d: d.reset(), dataset)
 
     for instance in dataset:
         # skip processed
@@ -75,7 +78,7 @@ def dbscan(dataset, radius, minPt, distance=proximity.euclidean):
         instance.visited = True
         neighbour = find_neighbour(instance, dataset, radius, distance)
 
-        if minPt > len(neighbour):
+        if minPt > len(neighbour) + 1:
             instance.label = data.NOISE
         else:
             # core point
@@ -88,7 +91,7 @@ def dbscan(dataset, radius, minPt, distance=proximity.euclidean):
                 neighbour = find_neighbour(check_instance, dataset, radius, distance)
 
                 check_instance.visited = True
-                if minPt > len(neighbour):
+                if minPt > len(neighbour) + 1:
                     # not core, border
                     check_instance.label = data.BORDER
                 else:

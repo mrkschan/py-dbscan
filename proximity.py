@@ -2,15 +2,11 @@
 
 def euclidean(a, b):
     ''' L2 distance without square root '''
-    d = .0
-    for aa, bb in zip(a, b):
-        d += (aa - bb) ** 2
-    return d
+    diff = [(aa - bb) ** 2 for aa, bb in zip(a, b)]
+    return sum(diff)
 
 
 def manhattan(a, b):
     ''' L1 distance '''
-    d = .0
-    for pair in zip(a, b):
-        d += abs(pair[0] - pair[1])
-    return d
+    diff = [(aa - bb) for aa, bb in zip(a, b)]
+    return sum(diff)
