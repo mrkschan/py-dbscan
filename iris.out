@@ -1,137 +1,137 @@
 mean: 0.0152342334135 sd: 0.0168440198903 sd + mean: 0.0152342334135 kdist: 0.0166838787102
 k: 2 sd: 0 kdist: 0.0166838787102 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 5
 
 mean: 0.0152342334135 sd: 0.0168440198903 sd + mean: 0.0320782533038 kdist: 0.0358713173098
 k: 2 sd: 1 kdist: 0.0358713173098 no. of cluster: 8
-cluster: 0 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 4 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 7 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 18
 
 mean: 0.0152342334135 sd: 0.0168440198903 sd + mean: 0.0489222731941 kdist: 0.0505401234568
 k: 2 sd: 2 kdist: 0.0505401234568 no. of cluster: 18
-cluster: 0 no. of pt. in cluster: 9 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 4 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 8 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 9 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 10 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 12 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 14 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 16 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 17 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 9 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 4 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 7 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 8 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 9 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 10 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 12 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 14 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 16 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 17 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 49
 
 mean: 0.0152342334135 sd: 0.0168440198903 sd + mean: 0.0657662930844 kdist: 0.069637345679
 k: 2 sd: 3 kdist: 0.069637345679 no. of cluster: 23
-cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 5 impurity (classification error): 0.0
-cluster: 8 no. of pt. in cluster: 6 impurity (classification error): 0.0
-cluster: 9 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 10 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 12 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 14 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 16 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 17 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 18 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 19 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 20 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 21 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 22 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 4 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 7 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 8 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 9 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 10 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 12 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 14 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 16 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 17 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 18 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 19 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 20 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 21 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 22 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 79
 
 mean: 0.0152342334135 sd: 0.0168440198903 sd + mean: 0.0826103129747 kdist: 0.0923011626608
 k: 2 sd: 4 kdist: 0.0923011626608 no. of cluster: 16
-cluster: 0 no. of pt. in cluster: 40 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 14 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 15 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 7 impurity (classification error): 0.142857142857
-cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 10 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 12 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0
-cluster: 14 no. of pt. in cluster: 5 impurity (classification error): 0.0
-cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 40 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 14 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 7 no. of pt. in cluster: 7 impurity (classification error): 0.142857142857 majority: Iris-versicolor
+cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 10 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 11 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 12 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 13 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 14 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 15 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.00892857142857 sum of pt.: 106
 
 mean: 0.0182082000407 sd: 0.0184067993443 sd + mean: 0.0182082000407 kdist: 0.0184199898213
 k: 3 sd: 0 kdist: 0.0184199898213 no. of cluster: 1
-cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 3
 
 mean: 0.0182082000407 sd: 0.0184067993443 sd + mean: 0.0366149993849 kdist: 0.0371580644132
 k: 3 sd: 1 kdist: 0.0371580644132 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 6
 
 mean: 0.0182082000407 sd: 0.0184067993443 sd + mean: 0.0550217987292 kdist: 0.0600521880686
 k: 3 sd: 2 kdist: 0.0600521880686 no. of cluster: 6
-cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 5 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 39
 
 mean: 0.0182082000407 sd: 0.0184067993443 sd + mean: 0.0734285980735 kdist: 0.0962494037296
 k: 3 sd: 3 kdist: 0.0962494037296 no. of cluster: 10
-cluster: 0 no. of pt. in cluster: 41 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 17 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125
-cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 41 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 17 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-versicolor
+cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0125 sum of pt.: 102
 
 mean: 0.0182082000407 sd: 0.0184067993443 sd + mean: 0.0918353974178 kdist: 0.0962494037296
 k: 3 sd: 4 kdist: 0.0962494037296 no. of cluster: 10
-cluster: 0 no. of pt. in cluster: 41 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 17 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0
-cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125
-cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0
-cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 41 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 17 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-versicolor
+cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0125 sum of pt.: 102
 
 mean: 0.0207844934672 sd: 0.0196541603068 sd + mean: 0.0207844934672 kdist: 0.0210707331865
@@ -142,25 +142,25 @@ k: 4 sd: 1 kdist: 0.0412476149184 no. of cluster: 0
 
 mean: 0.0207844934672 sd: 0.0196541603068 sd + mean: 0.0600928140808 kdist: 0.067289281585
 k: 4 sd: 2 kdist: 0.067289281585 no. of cluster: 3
-cluster: 0 no. of pt. in cluster: 11 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 11 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-versicolor
 mean impurity: 0.0 sum of pt.: 29
 
 mean: 0.0207844934672 sd: 0.0196541603068 sd + mean: 0.0797469743876 kdist: 0.0817153125787
 k: 4 sd: 3 kdist: 0.0817153125787 no. of cluster: 5
-cluster: 0 no. of pt. in cluster: 16 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 16 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 6 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 8 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 4 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 16 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 16 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 3 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 4 impurity (classification error): 0.0 majority: Iris-versicolor
 mean impurity: 0.0 sum of pt.: 50
 
 mean: 0.0207844934672 sd: 0.0196541603068 sd + mean: 0.0994011346944 kdist: 0.123644316058
 k: 4 sd: 4 kdist: 0.123644316058 no. of cluster: 3
-cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 70 impurity (classification error): 0.428571428571
-cluster: 2 no. of pt. in cluster: 4 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 70 impurity (classification error): 0.428571428571 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 4 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.142857142857 sum of pt.: 119
 
 mean: 0.023571221212 sd: 0.0228307438117 sd + mean: 0.023571221212 kdist: 0.0236283231546
@@ -171,24 +171,24 @@ k: 5 sd: 1 kdist: 0.0468001891219 no. of cluster: 0
 
 mean: 0.023571221212 sd: 0.0228307438117 sd + mean: 0.0692327088355 kdist: 0.0716108566433
 k: 5 sd: 2 kdist: 0.0716108566433 no. of cluster: 3
-cluster: 0 no. of pt. in cluster: 11 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 11 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 13 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 2 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-versicolor
 mean impurity: 0.0 sum of pt.: 29
 
 mean: 0.023571221212 sd: 0.0228307438117 sd + mean: 0.0920634526472 kdist: 0.0994385083398
 k: 5 sd: 3 kdist: 0.0994385083398 no. of cluster: 5
-cluster: 0 no. of pt. in cluster: 42 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 9 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 8 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 17 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 5 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 42 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 9 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 17 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 5 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 81
 
 mean: 0.023571221212 sd: 0.0228307438117 sd + mean: 0.114894196459 kdist: 0.142346204351
 k: 5 sd: 4 kdist: 0.142346204351 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 78 impurity (classification error): 0.448717948718
+cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 78 impurity (classification error): 0.448717948718 majority: Iris-versicolor
 mean impurity: 0.224358974359 sum of pt.: 125
 
 mean: 0.0267821052084 sd: 0.0256575952575 sd + mean: 0.0267821052084 kdist: 0.0273171644305
@@ -196,29 +196,29 @@ k: 6 sd: 0 kdist: 0.0273171644305 no. of cluster: 0
 
 mean: 0.0267821052084 sd: 0.0256575952575 sd + mean: 0.0524397004659 kdist: 0.0550367559698
 k: 6 sd: 1 kdist: 0.0550367559698 no. of cluster: 1
-cluster: 0 no. of pt. in cluster: 9 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 9 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 9
 
 mean: 0.0267821052084 sd: 0.0256575952575 sd + mean: 0.0780972957234 kdist: 0.0783623998532
 k: 6 sd: 2 kdist: 0.0783623998532 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 13 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 14 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 13 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 14 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 27
 
 mean: 0.0267821052084 sd: 0.0256575952575 sd + mean: 0.103754890981 kdist: 0.108681142959
 k: 6 sd: 3 kdist: 0.108681142959 no. of cluster: 6
-cluster: 0 no. of pt. in cluster: 44 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 11 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 8 impurity (classification error): 0.125
-cluster: 3 no. of pt. in cluster: 20 impurity (classification error): 0.0
-cluster: 4 no. of pt. in cluster: 6 impurity (classification error): 0.0
-cluster: 5 no. of pt. in cluster: 6 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 44 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 11 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 20 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 4 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
+cluster: 5 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0208333333333 sum of pt.: 95
 
 mean: 0.0267821052084 sd: 0.0256575952575 sd + mean: 0.129412486238 kdist: 0.145121632513
 k: 6 sd: 4 kdist: 0.145121632513 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 78 impurity (classification error): 0.448717948718
+cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 78 impurity (classification error): 0.448717948718 majority: Iris-versicolor
 mean impurity: 0.224358974359 sum of pt.: 125
 
 mean: 0.0290821839427 sd: 0.026767319203 sd + mean: 0.0290821839427 kdist: 0.0291197741
@@ -226,27 +226,27 @@ k: 7 sd: 0 kdist: 0.0291197741 no. of cluster: 0
 
 mean: 0.0290821839427 sd: 0.026767319203 sd + mean: 0.0558495031457 kdist: 0.0581842989811
 k: 7 sd: 1 kdist: 0.0581842989811 no. of cluster: 1
-cluster: 0 no. of pt. in cluster: 8 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 8
 
 mean: 0.0290821839427 sd: 0.026767319203 sd + mean: 0.0826168223486 kdist: 0.0854997455322
 k: 7 sd: 2 kdist: 0.0854997455322 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 12 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 27
 
 mean: 0.0290821839427 sd: 0.026767319203 sd + mean: 0.109384141552 kdist: 0.114767922248
 k: 7 sd: 3 kdist: 0.114767922248 no. of cluster: 4
-cluster: 0 no. of pt. in cluster: 44 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 20 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 16 impurity (classification error): 0.0
-cluster: 3 no. of pt. in cluster: 12 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 44 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 20 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 16 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 12 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0 sum of pt.: 92
 
 mean: 0.0290821839427 sd: 0.026767319203 sd + mean: 0.136151460755 kdist: 0.151026759907
 k: 7 sd: 4 kdist: 0.151026759907 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.444444444444
+cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.444444444444 majority: Iris-versicolor
 mean impurity: 0.222222222222 sum of pt.: 128
 
 mean: 0.0313332199902 sd: 0.0282531288177 sd + mean: 0.0313332199902 kdist: 0.0315372737719
@@ -254,28 +254,28 @@ k: 8 sd: 0 kdist: 0.0315372737719 no. of cluster: 0
 
 mean: 0.0313332199902 sd: 0.0282531288177 sd + mean: 0.059586348808 kdist: 0.0643957630665
 k: 8 sd: 1 kdist: 0.0643957630665 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 8 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 8 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 16
 
 mean: 0.0313332199902 sd: 0.0282531288177 sd + mean: 0.0878394776257 kdist: 0.0912867825692
 k: 8 sd: 2 kdist: 0.0912867825692 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 15 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 16 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 16 impurity (classification error): 0.0 majority: Iris-setosa
 mean impurity: 0.0 sum of pt.: 31
 
 mean: 0.0313332199902 sd: 0.0282531288177 sd + mean: 0.116092606443 kdist: 0.122377130614
 k: 8 sd: 3 kdist: 0.122377130614 no. of cluster: 4
-cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 21 impurity (classification error): 0.0
-cluster: 2 no. of pt. in cluster: 19 impurity (classification error): 0.0526315789474
-cluster: 3 no. of pt. in cluster: 8 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 21 impurity (classification error): 0.0 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 19 impurity (classification error): 0.0526315789474 majority: Iris-versicolor
+cluster: 3 no. of pt. in cluster: 8 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0131578947368 sum of pt.: 93
 
 mean: 0.0313332199902 sd: 0.0282531288177 sd + mean: 0.144345735261 kdist: 0.153527881516
 k: 8 sd: 4 kdist: 0.153527881516 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.456790123457
+cluster: 0 no. of pt. in cluster: 47 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.456790123457 majority: Iris-versicolor
 mean impurity: 0.228395061728 sum of pt.: 128
 
 mean: 0.0332045348618 sd: 0.0289913306919 sd + mean: 0.0332045348618 kdist: 0.0336829051713
@@ -286,20 +286,20 @@ k: 9 sd: 1 kdist: 0.0627373998532 no. of cluster: 0
 
 mean: 0.0332045348618 sd: 0.0289913306919 sd + mean: 0.0911871962455 kdist: 0.0989583333333
 k: 9 sd: 2 kdist: 0.0989583333333 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 34 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 9 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 34 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 9 impurity (classification error): 0.0 majority: Iris-versicolor
 mean impurity: 0.0 sum of pt.: 43
 
 mean: 0.0332045348618 sd: 0.0289913306919 sd + mean: 0.120178526937 kdist: 0.131550329656
 k: 9 sd: 3 kdist: 0.131550329656 no. of cluster: 3
-cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 36 impurity (classification error): 0.0277777777778
-cluster: 2 no. of pt. in cluster: 19 impurity (classification error): 0.0
+cluster: 0 no. of pt. in cluster: 45 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 36 impurity (classification error): 0.0277777777778 majority: Iris-versicolor
+cluster: 2 no. of pt. in cluster: 19 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.00925925925926 sum of pt.: 100
 
 mean: 0.0332045348618 sd: 0.0289913306919 sd + mean: 0.149169857629 kdist: 0.15372737719
 k: 9 sd: 4 kdist: 0.15372737719 no. of cluster: 2
-cluster: 0 no. of pt. in cluster: 48 impurity (classification error): 0.0
-cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.456790123457
+cluster: 0 no. of pt. in cluster: 48 impurity (classification error): 0.0 majority: Iris-setosa
+cluster: 1 no. of pt. in cluster: 81 impurity (classification error): 0.456790123457 majority: Iris-versicolor
 mean impurity: 0.228395061728 sum of pt.: 129
 

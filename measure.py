@@ -21,7 +21,10 @@ def cls_err(dataset):
     # find max prob
     size     = len(dataset)
     max_prob = .0
-    for f in freq.values():
-        max_prob = max(max_prob, f/size)
+    max_cls  = None
+    for cls, f in freq.items():
+        if f/size > max_prob:
+            max_prob = f/size
+            max_cls  = cls
 
-    return 1 - max_prob
+    return 1 - max_prob, cls
