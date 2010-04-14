@@ -74,7 +74,7 @@ cluster: 3 no. of pt. in cluster: 2 impurity (classification error): 0.0 majorit
 cluster: 4 no. of pt. in cluster: 15 impurity (classification error): 0.0 majority: Iris-versicolor
 cluster: 5 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
 cluster: 6 no. of pt. in cluster: 2 impurity (classification error): 0.0 majority: Iris-versicolor
-cluster: 7 no. of pt. in cluster: 7 impurity (classification error): 0.142857142857 majority: Iris-versicolor
+cluster: 7 no. of pt. in cluster: 7 impurity (classification error): 0.142857142857 majority: Iris-virginica
 cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 10 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
@@ -115,7 +115,7 @@ cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majorit
 cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
-cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-versicolor
+cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-virginica
 cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0125 sum of pt.: 102
@@ -129,7 +129,7 @@ cluster: 3 no. of pt. in cluster: 3 impurity (classification error): 0.0 majorit
 cluster: 4 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 5 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 6 no. of pt. in cluster: 6 impurity (classification error): 0.0 majority: Iris-virginica
-cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-versicolor
+cluster: 7 no. of pt. in cluster: 8 impurity (classification error): 0.125 majority: Iris-virginica
 cluster: 8 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 cluster: 9 no. of pt. in cluster: 3 impurity (classification error): 0.0 majority: Iris-virginica
 mean impurity: 0.0125 sum of pt.: 102
