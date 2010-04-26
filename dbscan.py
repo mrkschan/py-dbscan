@@ -63,9 +63,8 @@ def find_neighbour(instance, dataset, radius, distance):
         proximity.build_cache(dataset, distance)
         cached = True
 
-    r = radius ** 2
     pairs = proximity.cache[instance]
-    neighbour = [which for which, dist in pairs if r >= dist]
+    neighbour = [which for which, dist in pairs if radius >= dist]
 
     return neighbour
 
