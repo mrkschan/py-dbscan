@@ -3,6 +3,7 @@
 import proximity
 import math
 
+cached = False
 
 class data:
     ''' data wrapper '''
@@ -24,16 +25,16 @@ def k_distance(dataset, k, sd_away, distance=proximity.euclidean):
     ''' compute the k-distance as radius for dbscan.
         k-distance is obtained by the min. distance immediately
         larger than a particular standard deviation away from mean '''
-    kdist = []
 
-    for a in dataset:
-        dist = [
-            distance(a.tuple, b.tuple)
-            for b in dataset if a != b
-        ]
-        dist.sort()
-        kdist.append(dist[k])
+    global cached
+    if not cached:
+        proximity.build_cache(dataset, distance)
+        cached = True
 
+    kdist = [
+        pairs[k][1] for pairs in
+        [proximity.cache[a] for a in dataset]
+    ]
     kdist.sort()
 
     size = len(kdist)
@@ -57,11 +58,14 @@ def k_distance(dataset, k, sd_away, distance=proximity.euclidean):
 
 def find_neighbour(instance, dataset, radius, distance):
     ''' find all neighbour within radius '''
+    global cached
+    if not cached:
+        proximity.build_cache(dataset, distance)
+        cached = True
+
     r = radius ** 2
-    neighbour = [
-        d for d in dataset
-        if instance != d and r >= distance(instance.tuple, d.tuple)
-    ]
+    pairs = proximity.cache[instance]
+    neighbour = [which for which, dist in pairs if r >= dist]
 
     return neighbour
 
